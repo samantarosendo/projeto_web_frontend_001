@@ -1,0 +1,30 @@
+/*
+seletor{
+    propriedade: valor;
+    propriedade: valor;
+}
+*/
+
+p{
+    font-family: "Helvetica";
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 35px;
+}
+
+#paragrafo01{
+    margin-left: 200px;
+
+}
+
+#paragrafo02{
+    margin-right: 200px;
+}
+
+.paragrafos{
+    color: rgb(190, 63, 63);
+}
+
+.especial{
+    background-color: rgb(247, 200, 138);
+}
